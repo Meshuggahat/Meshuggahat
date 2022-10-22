@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Meshuggahat
+- 👀 I’m interested in data science and biology
+- 🌱 I’m currently learning Flask, Vue.js, packets parsing
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me : fartek.sandrine@gmail.com
